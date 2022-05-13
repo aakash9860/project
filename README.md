@@ -9,11 +9,9 @@ You need to install :
 
 Sqlite3
 
-pip install sqlite3
-PyQt5
-
 pip install PyQt5
-SQLAlchemy
+python
+
 
 
 
